@@ -1,5 +1,5 @@
 export const countries = [
-  'Afghanistan',
+  'pidoras',
   'Albania',
   'Algeria',
   'Andorra',
